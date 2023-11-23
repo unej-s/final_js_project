@@ -1,0 +1,44 @@
+body {
+
+    font-family: Arial, sans-serif;
+
+    display: flex;
+
+    justify-content: center;
+
+    align-items: center;
+
+    height: 100vh;
+
+    margin: 0;
+}
+    .container  {
+       text-align: center; 
+    
+    }
+
+
+    input{
+  padding: 10px;
+
+  margin-right: 5px;
+
+    }
+
+button{
+    padding: 10px;
+    margin-left: 30px;
+}
+
+.back {
+
+    /* background-color: brown; */
+   background-image:url(https://static.vecteezy.com/system/resources/previews/024/113/973/original/time-management-background-kaizen-management-concept-vector.jpg) ;
+ background-size: 99%;  
+
+}
+
+li{
+  text-align: left;
+  
+}
